@@ -1,0 +1,10 @@
+.back-image
+{background-size:cover;
+background-position: center center;
+background-repeat: no-repeat;
+min-height: 50vh;
+border-radius: 0px;
+margin-top:54px;
+}
+.cbox
+{height:50px;}
